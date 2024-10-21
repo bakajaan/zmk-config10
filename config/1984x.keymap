@@ -157,7 +157,6 @@
 				&kp Q			&kp W			&kp F           &kp P           &kp G                    &kp J           	&kp L      			&kp U            &kp Y			&kp SQT
 				&kp A			&kp R			&kp S      		&kp T      	  	&kp D                    &kp H            	&kp N           	&kp E     		 &kp I			&kp O
 				&kp Z			&kp X			&kp C           &kp V           &kp B               	 &kp K       		&kp M          		&kp COMMA        &kp DOT		&kp SEMI
-												&none 		 	&td0	     	&kp LSHFT			 	 &kp SPACE	 		&td1		      	&none 	
 			>;
 		};
 
@@ -166,7 +165,6 @@
 				&none			&none			&none     		&none       	&kp C_VOL_UP            &none          	&kp HOME        &kp UP           &kp END		&kp DEL
 				&sk LSHFT		&sk LGUI		&sk RALT        &sk LCTRL       &kp C_VOL_DN            &none           &kp LEFT        &kp DOWN	     &kp RIGHT		&kp BSPC
 				&none			&none			&kp C_PREV      &kp C_NEXT      &kp C_PP               	&none       	&kp PG_DN       &kp PG_UP	     &none			&kp ENTER
-												&trans		 	&trans       	&trans			        &trans	  		&trans	        &none
 			>;
 		};
 
@@ -175,7 +173,6 @@
 				&none			&kp LBKT		&kp LBRC         &kp LPAR       &kp TILDE                   &kp CARET       &kp RPAR    	&kp RBRC     	 &kp RBKT			&kp GRAVE
 				&kp MINUS		&kp STAR		&kp EQUAL        &kp UNDER      &kp DLLR                    &kp HASH        &sk RCTRL     	&sk RALT    	 &sk RGUI			&sk RSHFT
 				&kp PLUS		&kp PIPE		&kp AT           &kp FSLH       &kp PRCNT               	&none       	&kp BSLH	    &kp AMPS	     &kp QMARK			&kp EXCL
-												&none	   		 &trans        	&trans		          	 	&trans		    &trans       	&none
 			>;
 		};
 
@@ -184,7 +181,6 @@
 				&kp N7			&kp N5			&kp N3         	&kp N1       	&kp N9                   	&kp N8      	&kp N0  	  	&kp N2    	 	 &kp N4				&kp N6
 				&kp LSHFT		&kp LGUI		&kp RALT        &kp LCTRL       &kp F11                     &kp F10         &kp RCTRL     	&kp RALT    	 &kp RGUI			&kp RSHFT
 				&kp F7			&kp F5			&kp F3          &kp F1        	&kp F9               		&kp F8       	&kp F12		    &kp F2	    	 &kp F4				&kp F6
-												&none	   		&trans        	&trans		          	 	&trans		    &trans       	&none
 			>;
 		};
 
@@ -193,7 +189,6 @@
 				&trans				&trans				&trans            &trans          &trans            	&trans		   	&trans		     &trans		    &trans		&trans
 				&kp LSHFT			&kp LGUI 			&kp RALT          &kp LCTRL       &trans                &trans		    &trans		     &trans	 	  	&trans		&trans
 				&trans				&trans				&trans            &trans          &trans                &trans	        &trans           &trans   		&trans		&trans
-														&none	   		  &trans   		  &trans	     	    &trans	        &trans       	 &none
 			>;
 		};
 
@@ -202,7 +197,6 @@
 				&trans				&trans				&trans            &trans          &trans            	&trans		   	&trans		     &trans		    &trans		&trans
 				&trans				&trans 				&trans            &trans          &trans                &trans		    &kp RCTRL		 &kp RALT	 	&kp RGUI	&kp RSHFT
 				&trans				&trans				&trans            &trans          &trans                &trans	        &trans           &trans   		&trans		&trans
-														&none	   		  &trans   		  &trans	     	    &trans	        &trans       	 &none
 			>;
 		};
 
@@ -211,7 +205,6 @@
 				&sys_reset			&ext_power EP_ON	&none            &none            &none            	   &bt BT_SEL 0   	&bt BT_SEL 1     &bt BT_SEL 2     &bt BT_SEL 3		&sys_reset
 				&bootloader			&ext_power EP_OFF	&none            &none            &none                &bt BT_DISC 0    &bt BT_DISC 1    &bt BT_DISC 2    &bt BT_DISC 3		&bootloader
 				&none				&none				&none            &none            &none                &bt BT_CLR       &none            &none        	  &none				&none
-														&none	   		 &trans   		  &trans	     	   &trans	        &trans       	 &none
 			>;
 		};
 
@@ -220,7 +213,6 @@
 				&m_max_speed		&s_max_speed		&pim447_hue    				  &trans       					    &trans		       	&trans		   	&trans		     &trans		    &trans		&trans
 				&m_max_time			&s_max_time			&trans         				  &trans         					&trans              &trans		    &mkp LCLK	     &mkp MCLK 	  	&mkp RCLK	&trans
 				&m_smooth			&s_smooth			&trans         				  &trans							&trans              &trans	        &trans           &trans   		&trans		&trans
-														&trans						  &pim447 PIM447_TOGGLE_MODE        &kp LSHFT	   	    &trans	        &trans           &trans
 			>;
 		};
 
@@ -229,7 +221,6 @@
 				&none				&none				&none            &none            &none            	   &none		   	&none		     &none		    &none		&none
 				&none				&none 				&none            &none            &none                &none		    &none		     &none	 	  	&none		&none
 				&none				&none				&none            &none            &none                &none	        &none            &none   		&none		&none
-														&none	   		 &none   		  &none	     	       &none	        &none       	 &none
 			>;
 		}; */
 	};
